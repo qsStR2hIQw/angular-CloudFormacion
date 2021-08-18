@@ -9,7 +9,7 @@ import { products } from '../products';
 })
 export class ProductListComponent {
   products = products;
-  nombre = "Estela";
+  nombre = "Prueba";
 
   share() {
     window.alert('The product has been shared!');
